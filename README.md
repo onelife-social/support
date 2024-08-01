@@ -6,6 +6,7 @@ En este repositorio se recopilan los errores recibidos de la versión en producc
 ### Notificaciones duplicadas.
 - [ ] [Notificación de unión a grupo repetidas #155](https://github.com/onelife-social/support/issues/155)
 - [ ] [Notificación cumpleaños triplicada #130](https://github.com/onelife-social/support/issues/130)
+- [ ] [Notificaciones duplicadas #148](https://github.com/onelife-social/support/issues/148)
 ### Error al subir memories
 - [ ] [Formato BMP #195](https://github.com/onelife-social/support/issues/195)
 - [ ] [Problema en el proceso de subida #191](https://github.com/onelife-social/support/issues/191)
